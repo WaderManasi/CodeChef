@@ -21,7 +21,6 @@ int main() {
 	        if(pc%9!=0)
 	        p1++;
 	    }
-	    
 	    if(pr<=9)
 	    p2=1;
 	    else
