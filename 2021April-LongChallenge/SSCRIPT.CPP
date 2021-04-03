@@ -2,7 +2,6 @@
     #define lli long long int
     using namespace std;
     int main() {
-
     	int t;
     	cin>>t;
     	
