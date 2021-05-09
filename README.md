@@ -9,6 +9,7 @@
     - [February-21](https://github.com/WaderManasi/CodeChef/tree/master/2021February-LongChallenge)
     - [March-21](https://github.com/WaderManasi/CodeChef/tree/master/2020March-LongChallenge)
     - [April-21](https://github.com/WaderManasi/CodeChef/tree/master/2021April-LongChallenge)
+    - [May-21](https://github.com/WaderManasi/CodeChef/tree/master/2021May-LongChallenge)
 - Lunch Time
     - [July-2020](https://github.com/WaderManasi/CodeChef/tree/master/2020July-Lunchtime)
 - Cook off
